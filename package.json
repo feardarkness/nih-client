@@ -1,6 +1,6 @@
 {
   "name": "nih-client",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Frontend client for the National Institutes of Health - Office of dietary Supplements API",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,10 @@
     "api",
     "request"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/feardarkness/nih-client"
+  },
   "author": "Ariel Alvarado",
   "license": "MIT",
   "devDependencies": {
