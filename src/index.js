@@ -1,3 +1,4 @@
+import '@babel/polyfill';
 import request from 'axios';
 
 const NIH_API_URL = 'https://ods.od.nih.gov/api';
