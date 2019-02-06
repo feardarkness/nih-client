@@ -1,8 +1,8 @@
 {
   "name": "nih-client",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Frontend client for the National Institutes of Health - Office of dietary Supplements API",
-  "main": "index.js",
+  "main": "lib/nih-client.js",
   "scripts": {
     "build": "webpack --mode production && npm run test",
     "dev": "webpack --progress --colors --watch --mode development",
