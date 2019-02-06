@@ -12,6 +12,9 @@ const config = {
     libraryTarget: 'umd',
     umdNamedDefine: true,
   },
+  externals: {
+    axios: 'axios',
+  },
   module: {
     // loaders: [
     rules: [

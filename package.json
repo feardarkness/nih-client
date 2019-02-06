@@ -1,6 +1,6 @@
 {
   "name": "nih-client",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "Frontend client for the National Institutes of Health - Office of dietary Supplements API",
   "main": "lib/nih-client.js",
   "scripts": {
