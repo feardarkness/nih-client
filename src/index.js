@@ -1,5 +1,5 @@
-import '@babel/polyfill';
-import axios from 'axios';
+require('@babel/polyfill');
+const axios = require('axios');
 
 const NIH_API_URL = 'https://ods.od.nih.gov/api';
 
